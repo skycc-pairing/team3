@@ -1,2 +1,1 @@
-# team3
-DWNC B팀
+# DWNC B팀
